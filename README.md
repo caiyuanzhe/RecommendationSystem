@@ -1,2 +1,2 @@
 # RecommendationSystem
-This is the article recommendation system.
+This is a personalized news recommendation system. 
