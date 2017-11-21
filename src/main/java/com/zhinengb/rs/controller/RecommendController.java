@@ -31,7 +31,7 @@ import com.zhinengb.rs.recommendation.ZnbRealTimeRecommendationSystem;
 /**
  * Recommendation Controller.
  * 
- * @author Changsheng Shen
+ * @author Yuanzhe Cai
  *
  */
 @Controller
